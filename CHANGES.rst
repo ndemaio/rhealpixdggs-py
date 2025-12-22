@@ -1,3 +1,7 @@
+0.5.13
+^^^^^^
+Normalise floats and correct return types (rhp_wrappers).
+
 0.5.12
 ^^^^^^
 Fixes bug (off-by-one error) in `RHEALPixDGGS.rhp_to_center_child` function in the wrapper API.
